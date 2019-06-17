@@ -11,8 +11,10 @@ Django provides both a low-level API for signing values and a high-level API for
 
 You may also find signing useful for the following: 
 
->    Generating “recover my account” URLs for sending to users who have lost their password. 
+> Generating “recover my account” URLs for sending to users who have lost their password. 
 
->     Ensuring data stored in hidden form fields has not been tampered with. 
+> Ensuring data stored in hidden form fields has not been tampered with. 
 
->     Generating one-time secret URLs for allowing temporary access to a protected resource, for example a downloadable file that a user has paid for. Compiled and presented by Vakindu Philliam.
+> Generating one-time secret URLs for allowing temporary access to a protected resource, for example a downloadable file that a user has paid for. 
+
+Compiled and presented by Vakindu Philliam.
