@@ -9,7 +9,7 @@ Cryptographically signed values can be passed through an untrusted channel safe 
 
 Django provides both a low-level API for signing values and a high-level API for setting and reading signed cookies, one of the most common uses of signing in Web applications. 
 
-You may also find signing useful for the following: 
+You may also find signing useful for the following; 
 
 > Generating “recover my account” URLs for sending to users who have lost their password. 
 
